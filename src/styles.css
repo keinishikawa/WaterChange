@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.water {
+  background: aqua;
+}
+
+.ice {
+  background: blue;
+}
+
+.steam {
+  background: red;
+}
